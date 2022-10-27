@@ -1,7 +1,7 @@
 {
-    "name": "SHS Games",
+    "name": "Unbrooked",
     "description": "Unblocked Games",
-    "repository": "https://github.com/SHSGames/shsgames.github.io",
+    "repository": "https://millbrookcsd.org",
     "logo": "https://cdn.jsdelivr.net/gh/SHSGames/shsgames.github.io@master/web/static/icon.png",
     "keywords": ["node", "express", "static"]
 }
