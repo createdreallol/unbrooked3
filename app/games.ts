@@ -774,7 +774,7 @@ export default <Game[]>[
 	// 	Thumbnail: "https://cdn.jsdelivr.net/gh/JoshMerlino/shsg-pfile/thumbs/parking-mania.jpg",
 	// 	Width: 800,
 	// 	AspectRatio: 4/3 },
-{ name: "Pinch Hitter Game Day",
+,{ name: "Pinch Hitter Game Day",
  	Runner: "RUFFLE",
  	Game: "https://cdn.jsdelivr.net/gh/JoshMerlino/shsg-pfile/games/pinch-hitter-game-day.swf",
  	Thumbnail: "https://cdn.jsdelivr.net/gh/JoshMerlino/shsg-pfile/thumbs/pinch-hitter-game-day.jpg",
