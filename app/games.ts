@@ -725,7 +725,7 @@ export default <Game[]>[
  	Thumbnail: "https://cdn.jsdelivr.net/gh/JoshMerlino/shsg-pfile/thumbs/run-3.jpg",
  	Width: 800,
  	AspectRatio: 4/3
- }
+ },
  { name: "N",
  	Runner: "RUFFLE",
  	Game: "https://cdn.jsdelivr.net/gh/JoshMerlino/shsg-pfile/games/n.swf",
