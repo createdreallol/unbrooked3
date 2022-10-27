@@ -1,9 +1,9 @@
 {
-    "name": "shsgames",
-    "display-name": "SHS Games",
+    "name": "unbrooked",
+    "display-name": "Unbrooked",
     "version": "27.6.2",
     "description": "Unblocked games • part of an inside job.",
-    "author": "Josh Merlino",
+    "author": "Chris",
     "license": "ISC",
     "main": "lib/src",
     "types": "lib/src",
