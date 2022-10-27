@@ -458,8 +458,6 @@ GBA GAMES
 		game: "https://cdn.jsdelivr.net/gh/JoshMerlino/shsg-pfile/games/wario-ware.gba",
 		thumbnail: "https://cdn.jsdelivr.net/gh/JoshMerlino/shsg-pfile/thumbs/wario-ware.jpg"
 	},
-
-Flash Games?!?!?!
 	{
 		name: "4th and Goal 2018",
 		runner: "RUFFLE",
